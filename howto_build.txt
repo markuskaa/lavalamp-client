@@ -1,0 +1,4 @@
+To rebuild the application, start command line in this directory and run:
+setup.py py2exe
+
+Your application is built in the directory 'dist'
